@@ -28,8 +28,7 @@ Automate EC2 instance **start/stop operations** using:
        width="850">
 </p>"
        alt="Serverless EC2 Instance Scheduler Architecture"
-       width="850">
-</p>
+    
 ## AWS Services & Technologies
 
 | Service / Technology | Usage |
