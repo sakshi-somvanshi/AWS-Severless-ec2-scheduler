@@ -17,7 +17,19 @@ Automate EC2 instance **start/stop operations** using:
 **Goal:** Cost Optimization & Automated Instance Management.
 
 ---
+## Architecture
 
+<p align="center">
+  <img src="## Architecture
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ec5f743-0d0e-45ee-b3ba-a1995a903879"
+       alt="Serverless EC2 Instance Scheduler Architecture"
+       width="850">
+</p>"
+       alt="Serverless EC2 Instance Scheduler Architecture"
+       width="850">
+</p>
 ## AWS Services & Technologies
 
 | Service / Technology | Usage |
